@@ -1,0 +1,368 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+}
+#header{
+    height: 400px;
+    background-image: url('./image/delicious-lobster-gourmet-seafood_23-2151713033.avif');
+    background-size: cover;
+}
+#frt{
+    display: flex;
+}
+.phn{
+    color:white;
+   font-size: 15px;
+}
+#main{
+    font-size:4rem;
+    font-weight: 800;
+    margin-top: 55px;
+    text-align: center;
+    font-family: "Sofadi One", serif;
+    color:white ;
+}
+#ssppnn{
+    font-size:2rem;
+    font-weight: 500;
+
+}
+.search{
+    background-color: bisque;
+    border-radius: 10px;
+    margin-top :1rem;
+    margin-left: 25rem; 
+    width:50rem;
+
+}
+.locationicon{
+    padding-left: 20px;
+    color: red;
+}
+.span1{
+    padding-left: 20px;
+    font-weight: 600;
+}
+.searchicon{
+    margin-left:150px;
+    color: red;
+
+}
+#form{
+    padding: 10px;
+    border: 0;
+    margin-left: 20px;
+    font-size: 15px;
+    background-color: bisque;
+
+    }
+.span2{
+    font-size: 18px;
+    margin-top :10px;
+    font-weight: 400;
+    margin-left: 5px;
+    padding-left: 5rem;
+    color: white;
+
+}
+#ddiv{
+    width: 40%;
+
+}
+#divv{
+    width: 60%;
+    display: flex;
+
+}
+.span3{
+    font-size: 18px;
+    margin-top :10px;
+    font-weight: 500;
+text-align: center;
+
+}
+.span2 a{
+    color: white;
+
+}
+.span3 a{
+    color: white;
+
+}
+
+.sin{
+    text-decoration: none;
+    color: black;
+}
+#head4{
+    font-weight: 200;
+    font-size: 12px;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+#icons{
+    display: flex;
+    margin-top: 15px;
+    text-decoration: none;
+}
+#hd6{
+    font-weight: 300;
+    font-size: 16px;
+}
+#vid{
+margin-left:8rem;
+margin-right:8rem;
+margin-bottom: 1rem;
+
+}
+.img1{
+    width:80px;
+    padding-left: 45px;
+
+}
+.head3{
+    font-size: 20px;
+    padding-top: 15px;
+    font-weight: 500;
+    padding-left: 15px;
+}
+.nocolor{
+    text-decoration: none;
+    color: rgb(109, 99, 99) ;
+}
+#lastdiv{
+    width: 100%;
+    margin-top: 7rem;
+    background-color: rgb(248, 245, 242);
+}
+.last1{
+    margin-left: 8rem;
+    width: 83%;
+height: 40px;
+display: flex;
+
+}
+#lasttopic{
+    font-weight: 700;
+    font-family: "Roboto", serif;
+    margin-top: 5px;
+
+}
+#mgg{
+    width: 25px;
+}
+#btn{
+    margin-left: 58rem;
+    display: flex;
+}
+#last2{
+    width: 80%;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 9rem;
+
+}
+#head3{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.list{
+    list-style: none;
+    text-align: justify;
+
+}
+.list a{
+    text-decoration: none;
+    color: black;
+}
+.subh{
+    width: 20%;
+}
+.iicns{
+    color: black;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#icns2{
+    width: 150px;
+    padding-top: 6px;
+}
+.cpimg{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+#contents{
+    margin: 5rem 8%;
+}
+.con1{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.con11{
+    width: 620px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: rgb(214, 211, 211);
+
+}
+.con11:hover{
+   zoom: 95% ;
+}
+.conmg{
+    width: 100%;
+    height: 75%;
+    border-radius: 10px;
+
+}
+.hd3{
+    padding-left: 15px;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.sp{
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+#headm{
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 45px;
+}
+#spnn{
+    font-weight: 500;
+
+}
+#sp1{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+#divsu{
+    width: 100%;
+}
+#con22{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+ 
+}
+.pics{
+    width: 300px;
+    height: 300px;
+    position: relative;
+
+}
+.hd5{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    left: 15px;
+}
+.conmg2{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+#line{
+    width: 100%;
+}
+#divcon{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+
+}
+#con3{
+    margin-top: 7rem;
+}
+.conss{
+    margin-top:20px ;
+  width: 97%;
+  height: 70px;
+  border-radius: 15px;
+  background-color: rgb(244, 247, 247);
+}
+#con4{
+    width: 100%;
+    display: flex;
+    background-color: beige;
+    margin-top: 3rem;
+}
+.con44{
+    width: 50%;
+}
+#headm1{
+    font-size: 45px;
+    margin-top: 10px;
+}
+#phimg{
+    width: 25rem;
+margin-left: 4rem;
+}
+.radio{
+margin-left: 30px;
+margin-top: 1rem;
+}
+.label{
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#lst{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+#email{
+    border-radius: 10px;
+    width: 19rem;
+    padding: 15px;
+}
+#btn1{
+    border-radius: 10px;
+    padding: 15px;
+margin-left: 15px;
+background-color: brown;
+}
+#lst1{
+   margin-top: 3rem; 
+}
+#spnn1{
+    margin-left: 15px;
+   
+}
+
+.mgg{
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+#llast{
+margin-top: 5rem;
+}
+.lastsec{
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: black;
+    color: black;
+    background-color: rgb(244, 244, 238);
+
+}
+#llast a{
+    text-decoration: none;
+}
+.lhd{
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 22px;
+    margin-left: 25px;
+}
